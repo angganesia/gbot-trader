@@ -1,6 +1,6 @@
 {
   "name": "gbot-trader",
-  "version": "0.20.1",
+  "version": "0.20.2-beta1",
   "author": {
     "name": "George",
     "email": "gbot-trader@mail.ru"
@@ -34,7 +34,7 @@
   "license": "Shareware",
   "engines": {
     "node": ">=8.4.0",
-    "npm": ">=5.3.0"
+    "npm": ">=5.4.0"
   },
   "private": true,
   "dependencies": {
