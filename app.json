@@ -1,0 +1,15 @@
+{
+  "name": "gbot-trader",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
